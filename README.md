@@ -3,7 +3,7 @@ This is a tool to automate mobile performance testing via <a href="https://www.w
 
 
 ## What do you need?
-* **WebPagetest API Key**. Later it is explained how to get one.
+* **WebPagetest API Key**. Use [this page](https://www.webpagetest.org/getkey.php) to get one.
 * **Google account** (e.g. @gmail.com) to fork the Google Sheets tracker and the Data Studio dashboard.
 
 
